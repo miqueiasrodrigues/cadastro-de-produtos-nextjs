@@ -1,0 +1,15 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  background-color: #e9e8e8;
+  padding: 12px;
+  border-top: solid 1px #f2f2f2;
+}

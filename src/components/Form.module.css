@@ -1,0 +1,19 @@
+.form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.controlButtons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 18px 0px;
+  }
+  
+  .controlButtons button{
+    border: 0;
+    border-radius: 12px;
+    width: 100px;
+  }
