@@ -17,7 +17,7 @@ Bem-vindo ao Cadastro de Produtos com Next.js e Firebase, uma aplicação web co
 
 ## Como Iniciar
 
-1. Clone o repositório: `git clone https://github.com/miqueiasrodrigues/cadastro-de-produtos-nextjs/tree/main`
+1. Clone o repositório: `git clone https://github.com/miqueiasrodrigues/cadastro-de-produtos-nextjs.git`
 2. Navegue até a pasta do projeto: `cd cadastro-de-produtos-nextjs`
 3. Instale as dependências: `npm install`
 4. Configure a conexão com o Firebase, se necessário.
