@@ -25,4 +25,4 @@ Bem-vindo ao Cadastro de Produtos com Next.js e Firebase, uma aplicação web co
 
 ## Vídeo do projeto
 
-https://youtu.be/raB0FKAi2_s
+[Assista ao vídeo de apresentação do projeto](https://youtu.be/raB0FKAi2_s)
